@@ -1,0 +1,13 @@
+{
+    "name": "BlogTest",
+    "alias": "blogtest",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BlogTest\\Providers\\BlogTestServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
